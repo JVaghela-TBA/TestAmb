@@ -154,6 +154,8 @@
     <Content Include="AmdModel.edmx.diagram">
       <DependentUpon>AmdModel.edmx</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\Local-somee.pubxml" />
+    <None Include="Properties\PublishProfiles\Somme.com.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
