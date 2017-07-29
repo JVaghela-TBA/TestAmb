@@ -210,8 +210,8 @@
     <Content Include="Views\PdfUpload\Create.cshtml" />
     <Content Include="Views\PdfUpload\Delete.cshtml" />
     <Content Include="Views\PdfUpload\Details.cshtml" />
-    <Content Include="Views\PdfUpload\Edit.cshtml" />
     <Content Include="Views\PdfUpload\Index.cshtml" />
+    <Content Include="Views\PdfUpload\Edit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
